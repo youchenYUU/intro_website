@@ -5,11 +5,10 @@ function Hero() {
     <section className="hero">
       <div className="hero-content">
         <div className="hero-avatar">
-          {/* 你可以替換成自己的照片，放 images/avatar.jpg */}
-          <div className="avatar-placeholder">👋</div>
+          <img src="/avatar.jpg" alt="余宥辰" className="avatar-img" />
         </div>
-        <h1 className="hero-title">你好，我是你的名字</h1>
-        <p className="hero-subtitle">前端學習者 | 正在用 React 打造自我介紹網站</p>
+        <h1 className="hero-title">余宥辰 Terry</h1>
+        <p className="hero-subtitle">工業管理研究所碩士 | 資料分析 · 程式開發 · 持續學習中</p>
       </div>
     </section>
   )

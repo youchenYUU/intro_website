@@ -1,11 +1,17 @@
 import './Skills.css'
 
 const skills = [
+  'Python',
+  'Java',
+  'C#',
+  'R',
+  'MSSQL',
+  'SAP ABAP',
+  'ASP.NET',
   'HTML / CSS',
   'JavaScript',
   'React',
-  'Git',
-  '更多技能...'
+  'Word / PowerPoint'
 ]
 
 function Skills() {
