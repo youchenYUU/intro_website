@@ -10,7 +10,6 @@ function Contact() {
           <a href="tel:0987823225" className="contact-link">📱 0987-823-225</a>
           <a href="https://github.com/youchenYUU" target="_blank" rel="noopener noreferrer" className="contact-link">🐙 GitHub</a>
         </div>
-        <p className="contact-note">TOEIC 805 分 · 役畢</p>
       </div>
     </section>
   )
